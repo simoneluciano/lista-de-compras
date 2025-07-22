@@ -11,5 +11,6 @@ Este é um projeto de lista de compras criado com HTML, CSS e JavaScript, com fo
 - 🛍️ Valor restante mostrado dinamicamente
 - 🎯 Design responsivo e organizado
 - 🎨 Interface clara com botões destacados
+- Salva os produtos usando Local Storage
 
 
